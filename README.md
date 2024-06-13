@@ -1,4 +1,4 @@
 # tutorial-php
 
 - Laravel Eloquent in PHP Native
-- ```tightenco/collect``` itu adalah libarary collection PHP 
+- ```tightenco/collect``` || ```composer require illuminate/collections``` itu adalah libarary collection PHP 
